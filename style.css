@@ -1,0 +1,40 @@
+body {
+background-color: #eee;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: justify;
+}
+
+main {
+    border: solid 2px #999;
+    border-radius: 10px;
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+}
+
+header {
+    border: solid 2px #999;
+    height: 150px;
+    
+}
+
+nav {
+    border: solid 2px #999;
+    margin-top: 10px;
+}
+
+section {
+    border: solid 2px #999;
+    margin-top: 10px;
+    padding: 20px;
+}
+
+aside {
+    border: solid 2px #999;
+    margin-top: 10px;
+}
+
+footer {
+    border: solid 2px #999;
+    margin-top: 10px;
+}
