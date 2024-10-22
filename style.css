@@ -34,11 +34,15 @@ section {
 aside {
     border: solid 2px #999;
     margin-top: 10px;
-    width: 152px;
+    width: 142px;
     float: right;
 }
 
 footer {
     border: solid 2px #999;
     margin-top: 10px;
+}   
+
+.clear {
+    clear:both
 }
